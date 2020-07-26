@@ -2,7 +2,7 @@
 > Implementing freecodecamp's Documentation Page using HTML/CSS
 
 # Getting Started
-> Clone or Download this repository and run with an open server of ```index.html ``` on your preferred browser.
+> Clone or Download this repository and run with an open server of ```index.html ``` on your preferred browser
 
 # Preview
 [View](https://ifcodes-js-doc.netlify.app/)
